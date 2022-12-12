@@ -15,3 +15,4 @@ C:\Users\profi\Documents\Git Hub\forum_12-12-2022_input_output_file\obj\Debug\ne
 C:\Users\profi\Documents\Git Hub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.pdb
 C:\Users\profi\Documents\Git Hub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.genruntimeconfig.cache
 C:\Users\profi\Documents\Git Hub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\ref\forum_12-12-2022_input_output_file.dll
+C:\Users\profi\Documents\Git Hub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12_12_2022_input_output_file.Form2.resources
