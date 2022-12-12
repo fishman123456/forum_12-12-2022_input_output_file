@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "forum_12-12-2022_input_output_file/1.0.0": {
+        "runtime": {
+          "forum_12-12-2022_input_output_file.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "forum_12-12-2022_input_output_file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
