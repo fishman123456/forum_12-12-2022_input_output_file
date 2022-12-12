@@ -47,7 +47,7 @@
             this.progressBar1.Size = new System.Drawing.Size(520, 23);
             this.progressBar1.TabIndex = 0;
             this.progressBar1.Tag = "";
-            this.Save.SetToolTip(this.progressBar1, "Добавьте  путь для сохранения файла");
+            this.Progress.SetToolTip(this.progressBar1, "Скорость загрузки файла");
             this.progressBar1.Click += new System.EventHandler(this.progressBar1_Click);
             // 
             // button1
@@ -70,8 +70,8 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(280, 69);
             this.button2.TabIndex = 2;
-            this.button2.Text = "Сохранить";
-            this.Progress.SetToolTip(this.button2, "Прогресс выполнения программы");
+            this.button2.Text = "Открыть";
+            this.Save.SetToolTip(this.button2, "Открытие файла");
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 

@@ -27,8 +27,6 @@ namespace forum_12_12_2022_input_output_file
             }
             button2.Enabled = true;
            // MessageBox.Show("Файл открыт");
-
-
         }
 
         private void button2_Click(object sender, EventArgs e) // TODO показать файл в другой форме
@@ -36,8 +34,7 @@ namespace forum_12_12_2022_input_output_file
            Form2 form2= new Form2( fileText);
             form2.ShowDialog();
             
-            this.Close();
-           
+            this.Close();  
         }
 
         private void progressBar1_Click(object sender, EventArgs e) // Изменение скорости загрузки
