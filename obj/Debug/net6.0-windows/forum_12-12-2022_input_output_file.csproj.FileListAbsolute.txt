@@ -16,3 +16,21 @@ C:\Users\profi\Documents\Git Hub\forum_12-12-2022_input_output_file\obj\Debug\ne
 C:\Users\profi\Documents\Git Hub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.genruntimeconfig.cache
 C:\Users\profi\Documents\Git Hub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\ref\forum_12-12-2022_input_output_file.dll
 C:\Users\profi\Documents\Git Hub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12_12_2022_input_output_file.Form2.resources
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\bin\Debug\net6.0-windows\forum_12-12-2022_input_output_file.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\bin\Debug\net6.0-windows\forum_12-12-2022_input_output_file.deps.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\bin\Debug\net6.0-windows\forum_12-12-2022_input_output_file.runtimeconfig.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\bin\Debug\net6.0-windows\forum_12-12-2022_input_output_file.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\bin\Debug\net6.0-windows\forum_12-12-2022_input_output_file.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12_12_2022_input_output_file.Form1.resources
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12_12_2022_input_output_file.Form2.resources
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.csproj.GenerateResource.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.AssemblyInfoInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.AssemblyInfo.cs
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\refint\forum_12-12-2022_input_output_file.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\forum_12-12-2022_input_output_file.genruntimeconfig.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\forum_12-12-2022_input_output_file\obj\Debug\net6.0-windows\ref\forum_12-12-2022_input_output_file.dll
